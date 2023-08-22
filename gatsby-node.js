@@ -7,45 +7,41 @@ exports.createPages = ({ graphql, actions }) => {
   return new Promise((resolve, reject) => {
     resolve(
       graphql(
-        `
-          query {
-            allMarkdownRemark(
-              sort: { order: DESC, fields: [frontmatter___date] }
-            ) {
-              edges {
-                node {
-                  id
-                  fields {
-                    slug
-                  }
-                  frontmatter {
-                    templateKey
-                  }
-                }
-                next {
-                  fields {
-                    slug
-                  }
-                  frontmatter {
-                    title
-                    templateKey
-                    location
-                  }
-                }
-                previous {
-                  fields {
-                    slug
-                  }
-                  frontmatter {
-                    title
-                    templateKey
-                    location
-                  }
-                }
-              }
-            }
-          }
-        `
+        `{
+  allMarkdownRemark(sort: {frontmatter: {date: DESC}}) {
+    edges {
+      node {
+        id
+        fields {
+          slug
+        }
+        frontmatter {
+          templateKey
+        }
+      }
+      next {
+        fields {
+          slug
+        }
+        frontmatter {
+          title
+          templateKey
+          location
+        }
+      }
+      previous {
+        fields {
+          slug
+        }
+        frontmatter {
+          title
+          templateKey
+          location
+        }
+      }
+    }
+  }
+}`
       ).then(result => {
         if (result.errors) {
           result.errors.forEach(e => console.error(e.toString()))
@@ -72,7 +68,7 @@ exports.createPages = ({ graphql, actions }) => {
         })
       })
     )
-  })
+  });
 }
 
 exports.onCreateNode = ({ node, getNode, actions }) => {

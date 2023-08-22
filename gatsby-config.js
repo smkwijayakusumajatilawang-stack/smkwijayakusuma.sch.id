@@ -2,6 +2,7 @@ const siteUrl =
   process.env.URL || `https://objective-thompson-fe2703.netlify.app`
 
 module.exports = {
+  trailingSlash: `always`,
   siteMetadata: {
     title: "UrbanGarden",
     description:

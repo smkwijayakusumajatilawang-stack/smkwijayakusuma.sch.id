@@ -1,35 +1,32 @@
-import React from "react"
-import { graphql } from "gatsby"
-import MyHelmet from "../components/MyHelmet"
-
-import IndexPageTemplate from "./IndexPageTemplate"
+import * as React from "react";
+import { graphql } from "gatsby";
+import { GatsbyImage, getImage } from "gatsby-plugin-image";
+import MyHelmet from "../components/MyHelmet";
+import IndexPageTemplate from "./IndexPageTemplate";
 
 const IndexPage = ({ data }) => {
-  const { frontmatter: fm } = data.markdownRemark
+  const { frontmatter: fm } = data.markdownRemark;
 
   // featured posts
-  const { edges: posts } = data.allMarkdownRemark
+  const posts = data.allMarkdownRemark.edges;
 
   return (
     <>
-      <MyHelmet
-        title={fm.title}
-        description={fm.subheading}
-      />
+      <MyHelmet title={fm.title} description={fm.subheading} />
       <IndexPageTemplate
         heading={fm.heading}
         subheading={fm.subheading}
-        image={fm.image}
+        image={getImage(fm.image)}
         posts={posts}
         about={fm.about}
       />
     </>
-  )
-}
+  );
+};
 
-export default IndexPage
+export default IndexPage;
 
-export const indexPageQuery = graphql`
+export const query = graphql`
   query IndexPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
@@ -85,11 +82,7 @@ export const indexPageQuery = graphql`
               alt
               image {
                 childImageSharp {
-                  gatsbyImageData(
-                    width: 640
-                    placeholder: BLURRED
-                    aspectRatio: 1.5
-                  )
+                  gatsbyImageData(width: 640, placeholder: BLURRED, aspectRatio: 1.5)
                 }
               }
             }
@@ -98,4 +91,4 @@ export const indexPageQuery = graphql`
       }
     }
   }
-`
+`;

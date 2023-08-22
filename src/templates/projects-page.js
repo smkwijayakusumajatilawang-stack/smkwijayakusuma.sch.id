@@ -20,7 +20,6 @@ const ProjectsPage = ({ data }) => {
 }
 
 export default ProjectsPage
-
 export const projectsPageQuery = graphql`
   query ProjectsPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
@@ -66,4 +65,3 @@ export const projectsPageQuery = graphql`
     }
   }
 `
-
