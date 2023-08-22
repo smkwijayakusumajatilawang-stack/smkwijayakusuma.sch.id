@@ -1,12 +1,12 @@
 ---
 templateKey: project-page
-title: Outdoor spaces of Paul Klee museum
-date: 2021-07-24T16:01:51.183Z
-featured: false
+title: SMK Wijayakusuma Jatilawang Pemenang kegiatalan berbagai lomba
+date: 2023-08-22T12:40:22.295Z
+featured: true
 featuredimage:
-  alt: Modern building with green outdoor space
+  alt: SMK Wijayakusuma Jatilawang
   image: /img/ricardo-gomez-angel-opfpvxmrpp8-unsplash.jpg
-location: Bern, Swizerland
+location: Jatilawang, Purwokerto
 ---
 Photo by [Ricardo Gomez Angel](https://unsplash.com/@ripato?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/collections/kDVcVtpJNeA/urban-garden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
