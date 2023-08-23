@@ -102,32 +102,40 @@ const Navbar = ({ className }) => {
             >
               Home
             </ExactNavLink>
-            <PartialNavLink
-              to="/projects"
+            <ExactNavLink
+              to="/tentang-kami"
               onClick={() => {
                 setMenuOpen(false)
               }}
             >
-              Projects
+              Tentang Kami
+            </ExactNavLink>
+            <ExactNavLink
+              to="/visi-misi"
+              onClick={() => {
+                setMenuOpen(false)
+              }}
+            >
+              Visi Misi
+            </ExactNavLink>
+            <PartialNavLink
+              to="/jurusan"
+              onClick={() => {
+                setMenuOpen(false)
+              }}
+            >
+              Jurusan
             </PartialNavLink>
             <ExactNavLink
-              to="/about"
+              to="/kontak"
               onClick={() => {
                 setMenuOpen(false)
               }}
             >
-              About
-            </ExactNavLink>
-            <ExactNavLink
-              to="/contact"
-              onClick={() => {
-                setMenuOpen(false)
-              }}
-            >
-              Contact
+              Kontak
             </ExactNavLink>
             <a
-              href="https://github.com/jimmybutton/gatsby-netlifycms-tailwind-starter"
+              href="https://aretanet.com"
               className="py-4 md:py-2 md:pl-4"
               rel="noreferrer"
               target="_blank"

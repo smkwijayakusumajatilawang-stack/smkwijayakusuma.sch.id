@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Connecting People with Nature
+title: SMK Wijayakusuma Jatilawang
 image: /img/chuttersnap-ifmqouokaoa-unsplash.jpg
 heading: Unggul Berdaya Saing
 subheading: "SMK Vokasi dengan Kurikulum yang Up to date, Unggul dan Berdaya Saing."
