@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 
 const NAVLINK_CLASSES =
-  "my-1 py-3 px-3 text-center font-medium text-gray-600 border-b-4 border-white hover:border-green-700 md:mx-2 md:my-0"
+  "my-1 py-3 px-3 text-center font-medium text-gray-600 border-b-4 border-white hover:border-purple-700 md:mx-2 md:my-0"
 
 // this link will be active when itself or deeper routes
 // are current
@@ -53,8 +53,8 @@ const Navbar = ({ className }) => {
         <div className="flex items-center justify-between py-2">
           <Link className="flex items-center gap-1" to="/">
             <StaticImage
-              src="../img/urbangarden-icon.png"
-              alt="UrbanGarden icon"
+              src="../img/logo.png"
+              alt="SMK Wijayakusuma"
               className="w-8 h-8 sm:w-10 sm:h-10"
               layout="constrained"
               width={40}
@@ -64,8 +64,8 @@ const Navbar = ({ className }) => {
               placeholder="blurred"
             />
             <div className="text-xl font-bold tracking-wide lg:text-2xl">
-              <span className="text-gray-800 font-semibold">Urban</span>
-              <span className="text-green-700">Garden</span>
+              <span className="text-gray-800 font-semibold">SMK</span>
+              <span className="text-purple-700">Wijayakusuma</span>
             </div>
           </Link>
 

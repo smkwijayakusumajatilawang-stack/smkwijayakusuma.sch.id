@@ -11,8 +11,8 @@ const Footer = () => {
             <div className="px-4 sm:px-6 lg:px-8">
               <Link className="flex items-center gap-1" to="/">
                 <StaticImage
-                  src="../img/urbangarden-icon.png"
-                  alt="UrbanGarden icon"
+                  src="../img/logo.png"
+                  alt="SMK Wijayakusuma Jatilawang"
                   layout="fixed"
                   width={40}
                   height={40}
@@ -20,8 +20,8 @@ const Footer = () => {
                   placeholder="blurred"
                 />
                 <div className="text-xl font-bold tracking-wide">
-                  <span className="text-gray-800 font-semibold">Urban</span>
-                  <span className="text-green-700">Garden</span>
+                  <span className="text-gray-800 font-semibold">SMK</span>
+                  <span className="text-green-700">Wijayakusuma</span>
                 </div>
               </Link>
 
@@ -131,7 +131,7 @@ const Footer = () => {
 
         <div>
           <p className="text-center text-gray-800 dark:text-white">
-            © Brand 2020 - All rights reserved
+            © SMK Wijayakusuma Jatilawang 2023 - All rights reserved
           </p>
         </div>
       </div>

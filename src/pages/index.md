@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Connecting People with Nature
 image: /img/chuttersnap-ifmqouokaoa-unsplash.jpg
-heading: Connecting People with Nature*
-subheading: "*A Gatsby v3 starter template set up with Netlify CMS and Tailwind CSS."
+heading: Unggul Berdaya Saing
+subheading: "SMK Vokasi dengan Kurikulum yang Up to date, Unggul dan Berdaya Saing."
 about:
   heading: Who we are
   description: "Our team of architects, gardeners and enginners is working with

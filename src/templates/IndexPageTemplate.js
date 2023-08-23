@@ -15,11 +15,11 @@ const IndexPageTemplate = ({
   return (
     <div>
       {/* Header */}
-      <div className="relative bg-green-700 overflow-hidden">
+      <div className="relative bg-purple-700 overflow-hidden">
         <div className="max-w-7xl mx-auto">
-          <div className="relative z-10 pt-24 pb-12 bg-green-700 sm:pt-28 sm:pb-14 md:pt-32 md:pb-16 lg:w-1/2 lg:pt-44 lg:pb-24 xl:pt-48 xl:pb-32">
+          <div className="relative z-10 pt-24 pb-12 bg-purple-700 sm:pt-28 sm:pb-14 md:pt-32 md:pb-16 lg:w-1/2 lg:pt-44 lg:pb-24 xl:pt-48 xl:pb-32">
             <svg
-              className="hidden lg:block absolute right-0 inset-y-0 h-full w-48 text-green-700 transform translate-x-1/2"
+              className="hidden lg:block absolute right-0 inset-y-0 h-full w-48 text-purple-700 transform translate-x-1/2"
               fill="currentColor"
               viewBox="0 0 100 100"
               preserveAspectRatio="none"

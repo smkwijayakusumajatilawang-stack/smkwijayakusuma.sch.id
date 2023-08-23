@@ -4,10 +4,10 @@ const siteUrl =
 module.exports = {
   trailingSlash: `always`,
   siteMetadata: {
-    title: "UrbanGarden",
+    title: "SMK Wijayakusuma",
     description:
-      "Transforming and enriching our urban environments with green living spaces",
-    siteUrl: "https://objective-thompson-fe2703.netlify.app",
+      "Official website SMK Wijayakusuma Jatilawang Purwokerto",
+    siteUrl: "https://smkwijayakusuma.sch.id",
   },
   plugins: [
     {
@@ -73,13 +73,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `UrbanGarden`,
-        short_name: `UrbanGarden`,
+        name: `SMKWijayakusuma`,
+        short_name: `SMKWijayakusuma`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#047857`,
         display: `standalone`,
-        icon: `src/img/urbangarden-icon.png`,
+        icon: `src/img/logo.png`,
       },
     },
     "gatsby-transformer-remark-frontmatter",
