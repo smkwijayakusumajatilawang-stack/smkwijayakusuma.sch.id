@@ -1,6 +1,6 @@
 ---
 templateKey: projects-page
-title: Projects
-heading: Our Projects
-subheading: Transforming urban spaces all over the world
+title: Berita
+heading: Berita Kami
+subheading: Berbagai berita di SMK Wijayakusuma Jatilawang
 ---
