@@ -9,5 +9,6 @@ import ContactPagePreview from './preview-templates/ContactPagePreview'
 CMS.registerPreviewTemplate('index', IndexPagePreview)
 CMS.registerPreviewTemplate('projects-index', ProjectsPagePreview)
 CMS.registerPreviewTemplate('projects', ProjectPagePreview)
-CMS.registerPreviewTemplate('about', AboutPagePreview)
+//CMS.registerPreviewTemplate('about', AboutPagePreview)
+CMS.registerPreviewTemplate('tentang', AboutPagePreview)
 CMS.registerPreviewTemplate('contact', ContactPagePreview)
