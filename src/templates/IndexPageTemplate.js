@@ -56,7 +56,7 @@ const IndexPageTemplate = ({
       {/* Featured projects */}
       <Container>
         <div className="flex justify-between items-baseline">
-          <SectionHeading>Our projects from all over the world</SectionHeading>
+          <SectionHeading>Semua Berita SMK Wijayakusuma Jatilawang</SectionHeading>
           <Link className="text-green-700 underline hover:text-green-800" to="/berita">
             Lihat Semua
           </Link>
