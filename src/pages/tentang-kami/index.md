@@ -4,9 +4,9 @@ title: Tentang SMK Wijayakusuma
 heading: Tentang Kami
 subheading: SMK Wijayakusuma Jatilawang
 team:
-  - name: Courtney Henry
-    image: /img/joanna-nix-walkup-p7zgmc33s0u-unsplash.jpg
-    title: Founder / CEO
+  - name: Masturi, S.Ag
+    image: /img/bruce-mars-8yg31xn4dsw-unsplash-1-.jpg
+    title: Kepala Sekolah
   - name: Michael Foster
     title: Architect
     image: /img/rui-silvestre-hamjpesmede-unsplash.jpg
