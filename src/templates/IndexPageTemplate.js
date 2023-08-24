@@ -36,8 +36,8 @@ const IndexPageTemplate = ({
                 <p className="mt-2 text-green-100 sm:mt-4 lg:mt-6 lg:text-xl">
                   {subheading}
                 </p>
-                <PrimaryButton to="/contact" className="mt-6 lg:mt-10">
-                  Contact us
+                <PrimaryButton to="/kontak" className="mt-6 lg:mt-10">
+                  Hubungi Kami
                 </PrimaryButton>
               </div>
             </div>
@@ -57,8 +57,8 @@ const IndexPageTemplate = ({
       <Container>
         <div className="flex justify-between items-baseline">
           <SectionHeading>Our projects from all over the world</SectionHeading>
-          <Link className="text-green-700 underline hover:text-green-800" to="/projects">
-            View all
+          <Link className="text-green-700 underline hover:text-green-800" to="/berita">
+            Lihat Semua
           </Link>
         </div>
         <div className="mt-8">

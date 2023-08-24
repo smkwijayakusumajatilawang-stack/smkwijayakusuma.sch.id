@@ -1,0 +1,24 @@
+---
+templateKey: about-page
+title: Kepala Sekolah
+heading: Kepala Sekolah
+subheading: SMK Wijayakusuma Jatilawang
+team:
+  - name: Courtney Henry
+    image: /img/joanna-nix-walkup-p7zgmc33s0u-unsplash.jpg
+    title: Founder / CEO
+  - name: Michael Foster
+    title: Architect
+    image: /img/rui-silvestre-hamjpesmede-unsplash.jpg
+  - name: Leslie Alexander
+    title: Landscape Gardener
+    image: /img/brooke-cagle-norsyxmhgpi-unsplash-1-.jpg
+  - name: Dries Vincent
+    title: Manager, Business Relations
+    image: /img/bruce-mars-8yg31xn4dsw-unsplash-1-.jpg
+---
+### Tentang SMK Wijayakusuma Jatilawang
+
+SMK Wijayakusuma Jatilawang merupakan salah satu Sekolah Menengah Pertama Swasta yang ada di kecamatan Jatilawang, Banyumas, Jawa tengah, Indonesia. Sama dengan SMK pada umumnya di Indonesia masa pendidikan sekolah di SMK Wijayakusuma Jatilawang ditempuh dalam waktu tiga tahun pelajaran, mulai dari Kelas X sampai Kelas XII. Ada 3 jurusan/program keahlian di SMK Wijayakusuma Jatilawang : Akuntansi Keuangan Lembaga, Manajemen Perkantoran dan Lembaga Bisnis dan Desain Komunikasi Visual.
+
+![Rooftop gardens](/img/chuttersnap-nxjyzlbnyuq-unsplash.jpg "Rooftop gardens")

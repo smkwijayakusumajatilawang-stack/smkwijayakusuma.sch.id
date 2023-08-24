@@ -26,8 +26,7 @@ const Footer = () => {
               </Link>
 
               <p className="max-w-md mt-2 text-gray-600 dark:text-gray-400">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis, nisi! Id.
+                Salah satu SMK Vokasi dengan kurikulum yang up to date mengikuti perkembangan jaman.
               </p>
             </div>
           </div>

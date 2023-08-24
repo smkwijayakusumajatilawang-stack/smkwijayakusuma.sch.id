@@ -108,7 +108,7 @@ const Navbar = ({ className }) => {
                 setMenuOpen(false)
               }}
             >
-              Tentang Kami
+              Tentang
             </ExactNavLink>
             <ExactNavLink
               to="/visi-misi"
@@ -119,6 +119,14 @@ const Navbar = ({ className }) => {
               Visi Misi
             </ExactNavLink>
             <PartialNavLink
+              to="/departemen"
+              onClick={() => {
+                setMenuOpen(false)
+              }}
+            >
+              Departemen
+            </PartialNavLink>
+            <PartialNavLink
               to="/jurusan"
               onClick={() => {
                 setMenuOpen(false)
@@ -127,11 +135,35 @@ const Navbar = ({ className }) => {
               Jurusan
             </PartialNavLink>
             <ExactNavLink
-              to="/kontak"
+              to="/ulasan"
               onClick={() => {
                 setMenuOpen(false)
               }}
             >
+              Ulasan
+            </ExactNavLink>
+            <PartialNavLink
+              to="/berita"
+              onClick={() => {
+                setMenuOpen(false)
+              }}
+            >
+              Berita
+            </PartialNavLink>
+            <ExactNavLink
+              to="/kepala-sekolah"
+              onClick={() => {
+                setMenuOpen(false)
+              }}
+            >
+              Kepsek
+            </ExactNavLink>
+            <ExactNavLink
+              to="/kontak"
+              onClick={() => {
+                setMenuOpen(false)
+              }}
+            >  
               Kontak
             </ExactNavLink>
             <a
