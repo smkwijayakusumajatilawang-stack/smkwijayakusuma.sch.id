@@ -7,9 +7,9 @@ team:
   - name: Masturi, S.Ag
     image: /img/bruce-mars-8yg31xn4dsw-unsplash-1-.jpg
     title: Kepala Sekolah
-  - name: Michael Foster
-    title: Architect
-    image: /img/rui-silvestre-hamjpesmede-unsplash.jpg
+  - name: Muhammad Syukri
+    title: Ketua Program
+    image: /img/hust-wilson-njhvhxs4c0u-unsplash.jpg
   - name: Leslie Alexander
     title: Landscape Gardener
     image: /img/brooke-cagle-norsyxmhgpi-unsplash-1-.jpg
