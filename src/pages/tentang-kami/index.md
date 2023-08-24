@@ -21,4 +21,4 @@ team:
 
 SMK Wijayakusuma Jatilawang merupakan salah satu Sekolah Menengah Pertama Swasta yang ada di kecamatan Jatilawang, Banyumas, Jawa tengah, Indonesia. Sama dengan SMK pada umumnya di Indonesia masa pendidikan sekolah di SMK Wijayakusuma Jatilawang ditempuh dalam waktu tiga tahun pelajaran, mulai dari Kelas X sampai Kelas XII. Ada 3 jurusan/program keahlian di SMK Wijayakusuma Jatilawang : Akuntansi Keuangan Lembaga, Manajemen Perkantoran dan Lembaga Bisnis dan Desain Komunikasi Visual.
 
-![Rooftop gardens](/img/chuttersnap-nxjyzlbnyuq-unsplash.jpg "Rooftop gardens")
+![Gedung SMK Wijayakusuma](/img/gedung-smk-wijayakusuma.jpg "Gedung Utama SMK Wijayakusuma Jatilawang")
