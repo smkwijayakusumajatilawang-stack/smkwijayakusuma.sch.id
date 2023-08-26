@@ -21,7 +21,7 @@ const Footer = () => {
                 />
                 <div className="text-xl font-bold tracking-wide">
                   <span className="text-gray-800 font-semibold">SMK</span>
-                  <span className="text-green-700">Wijayakusuma</span>
+                  <span className="text-fuchsia-500">Wijayakusuma</span>
                 </div>
               </Link>
 

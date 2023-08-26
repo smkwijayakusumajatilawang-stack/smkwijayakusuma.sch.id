@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 
 const NAVLINK_CLASSES =
-  "my-1 py-3 px-3 text-center font-medium text-gray-600 border-b-4 border-white hover:border-purple-700 md:mx-2 md:my-0"
+  "my-1 py-3 px-3 text-center font-medium text-gray-600 border-b-4 border-white hover:border-purple-500 md:mx-2 md:my-0"
 
 // this link will be active when itself or deeper routes
 // are current
@@ -65,7 +65,7 @@ const Navbar = ({ className }) => {
             />
             <div className="text-xl font-bold tracking-wide lg:text-2xl">
               <span className="text-gray-800 font-semibold">SMK</span>
-              <span className="text-purple-700">Wijayakusuma</span>
+              <span className="text-fuchsia-500">Wijayakusuma</span>
             </div>
           </Link>
 
