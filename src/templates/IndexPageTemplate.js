@@ -48,7 +48,7 @@ const IndexPageTemplate = ({
           <Image
             className="h-56 w-full object-cover sm:h-72 md:h-92 lg:w-full lg:h-full"
             image={image}
-            alt=""
+            alt="SMK Wijayakusuma Jatilawang"
           />
         </div>
       </div>

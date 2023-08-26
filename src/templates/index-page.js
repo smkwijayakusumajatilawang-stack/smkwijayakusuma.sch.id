@@ -1,6 +1,6 @@
 import * as React from "react";
 import { graphql } from "gatsby";
-import { GatsbyImage, getImage } from "gatsby-plugin-image";
+//import { GatsbyImage, getImage } from "gatsby-plugin-image";
 import MyHelmet from "../components/MyHelmet";
 import IndexPageTemplate from "./IndexPageTemplate";
 
@@ -16,7 +16,8 @@ const IndexPage = ({ data }) => {
       <IndexPageTemplate
         heading={fm.heading}
         subheading={fm.subheading}
-        image={getImage(fm.image)}
+        //image={getImage(fm.image)}
+        image={fm.image}
         posts={posts}
         about={fm.about}
       />

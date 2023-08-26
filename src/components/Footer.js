@@ -38,22 +38,22 @@ const Footer = () => {
                   About
                 </h3>
                 <Link
-                  to="/"
+                  to="/tentang-kami"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Company
+                  Tentang Kami
                 </Link>
                 <Link
-                  to="/"
+                  to="/visi-misi"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Community
+                  Visi dan Misi
                 </Link>
                 <Link
-                  to="/"
+                  to="/jurusan"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Careers
+                  Jurusan
                 </Link>
               </div>
 
@@ -62,19 +62,19 @@ const Footer = () => {
                   Blog
                 </h3>
                 <Link
-                  to="/"
+                  to="/projects"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Tec
+                  Teknologi
                 </Link>
                 <Link
-                  to="/"
+                  to="/projects"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
                   Music
                 </Link>
                 <Link
-                  to="/"
+                  to="/projects"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
                   Videos
@@ -116,10 +116,10 @@ const Footer = () => {
                   Contact
                 </h3>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  +1 526 654 8965
+                  (0281) 6848670, 6848505
                 </span>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  example@email.com
+                  info@smkwijayakusuma.sch.id
                 </span>
               </div>
             </div>

@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: SMK Wijayakusuma Jatilawang
-image: /img/chuttersnap-ifmqouokaoa-unsplash.jpg
+image: /img/gedung-depan-smkwijayakusuma.jpg
 heading: Unggul Berdaya Saing
 subheading: "SMK Vokasi dengan Kurikulum yang Up to date, Unggul dan Berdaya Saing."
 about:
