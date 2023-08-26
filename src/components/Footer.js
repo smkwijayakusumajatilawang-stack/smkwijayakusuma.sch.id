@@ -26,7 +26,7 @@ const Footer = () => {
               </Link>
 
               <p className="max-w-md mt-2 text-gray-600 dark:text-gray-400">
-                Salah satu SMK Vokasi dengan kurikulum yang up to date mengikuti perkembangan jaman.
+                SMK Vokasi dengan kurikulum yang up to date mengikuti perkembangan jaman.
               </p>
             </div>
           </div>
@@ -83,31 +83,31 @@ const Footer = () => {
 
               <div>
                 <h3 className="text-gray-700 uppercase dark:text-white">
-                  Products
+                  Program
                 </h3>
                 <a
-                  href="https://www.gatsbyjs.com/"
+                  href="https://smkwijayakusuma.sch.id/jurusan"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Gatsby
+                  Akuntansi
                 </a>
                 <a
-                  href="https://www.netlifycms.org/"
+                  href="https://smkwijayakusuma.sch.id/jurusan"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Netlify CMS
+                  Manajemen Perkantoran
                 </a>
                 <a
-                  href="https://tailwindcss.com/"
+                  href="https://smkwijayakusuma.sch.id/jurusan"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Tailwind CSS
+                  Desain Komunikasi Visual
                 </a>
               </div>
 
