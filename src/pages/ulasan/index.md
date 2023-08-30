@@ -1,24 +1,26 @@
 ---
-templateKey: about-page
-title: Tentang SMK Wijayakusuma
-heading: Tentang Kami
-subheading: SMK Wijayakusuma Jatilawang
-team:
-  - name: Courtney Henry
-    image: /img/joanna-nix-walkup-p7zgmc33s0u-unsplash.jpg
-    title: Founder / CEO
-  - name: Michael Foster
-    title: Architect
-    image: /img/rui-silvestre-hamjpesmede-unsplash.jpg
-  - name: Leslie Alexander
-    title: Landscape Gardener
-    image: /img/brooke-cagle-norsyxmhgpi-unsplash-1-.jpg
-  - name: Dries Vincent
-    title: Manager, Business Relations
-    image: /img/bruce-mars-8yg31xn4dsw-unsplash-1-.jpg
+templateKey: ulasan-page
+title: Ulasan SMK Wijayakusuma
+heading: Ulasan Masyarakat
+subheading: Ulasan Masyarakat Tentang SMK Wijayakusuma Jatilawang 
 ---
-### Tentang SMK Wijayakusuma Jatilawang
 
-SMK Wijayakusuma Jatilawang merupakan salah satu Sekolah Menengah Pertama Swasta yang ada di kecamatan Jatilawang, Banyumas, Jawa tengah, Indonesia. Sama dengan SMK pada umumnya di Indonesia masa pendidikan sekolah di SMK Wijayakusuma Jatilawang ditempuh dalam waktu tiga tahun pelajaran, mulai dari Kelas X sampai Kelas XII. Ada 3 jurusan/program keahlian di SMK Wijayakusuma Jatilawang : Akuntansi Keuangan Lembaga, Manajemen Perkantoran dan Lembaga Bisnis dan Desain Komunikasi Visual.
+### Ulasan Positif Masyarakat tentang SMK Wijayakusuma Jatilawang
+
+> Pendidikan Berkualitas Tinggi: SMK Wijayakusuma Jatilawang dikenal dalam masyarakat sebagai lembaga pendidikan yang menyediakan pendidikan berkualitas tinggi. Kurikulum yang relevan dengan dunia industri dan teknologi, serta pendekatan pembelajaran yang inovatif, membuat para siswa/i mendapatkan pengetahuan dan keterampilan yang sesuai dengan tuntutan zaman.
+
+> Dukungan Terhadap Pengembangan Karakter: Masyarakat merasa senang melihat fokus SMK Wijayakusuma pada pengembangan karakter siswa. Lulusan dari sekolah ini tidak hanya cerdas secara akademik, tetapi juga memiliki nilai-nilai moral dan etika yang kuat. Ini sangat penting dalam membentuk generasi muda yang berintegritas.
+
+> Keterlibatan Orang Tua yang Positif: Orang tua siswa merasa dihargai dan terlibat dalam proses pendidikan di SMK Wijayakusuma. Sekolah ini aktif melibatkan orang tua dalam perkembangan anak-anak mereka, baik melalui pertemuan rutin, kegiatan-kegiatan khusus, maupun komunikasi yang terbuka.
+
+> Fasilitas dan Sarana yang Memadai: Fasilitas dan sarana di SMK Wijayakusuma Jatilawang dianggap memadai dan mendukung proses pembelajaran yang efektif. Ruang kelas yang nyaman, laboratorium yang lengkap, serta perpustakaan yang terisi dengan beragam referensi membuat siswa merasa didukung dalam pengembangan akademik dan kreativitas.
+
+> Prestasi Akademik dan Non-Akademik: Masyarakat bangga melihat prestasi siswa SMK Wijayakusuma tidak hanya dalam bidang akademik, tetapi juga dalam bidang non-akademik seperti olahraga, seni, dan kegiatan sosial. Ini menunjukkan pendekatan holistik dalam pembentukan siswa.
+
+> Hubungan yang Harmonis antara Siswa dan Guru: Ulasan masyarakat juga menyoroti hubungan yang harmonis antara siswa dan guru di SMK Wijayakusuma. Para siswa merasa nyaman berinteraksi dengan guru-guru mereka, sehingga proses belajar menjadi lebih menyenangkan dan inspiratif.
+
+> Persiapan Menuju Dunia Kerja: Salah satu aspek yang sangat diapresiasi oleh masyarakat adalah persiapan siswa untuk menghadapi dunia kerja setelah lulus. SMK Wijayakusuma membekali siswa dengan keterampilan praktis dan pengetahuan industri yang diperlukan, sehingga lulusan memiliki peluang lebih baik dalam karier masa depan.
+
+Pendapat-pendapat positif di atas mencerminkan kepercayaan masyarakat terhadap kualitas dan integritas SMK Wijayakusuma Jatilawang dalam memberikan pendidikan yang baik.
 
 ![Rooftop gardens](/img/chuttersnap-nxjyzlbnyuq-unsplash.jpg "Rooftop gardens")

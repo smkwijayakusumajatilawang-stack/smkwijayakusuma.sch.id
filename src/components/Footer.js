@@ -116,7 +116,7 @@ const Footer = () => {
                   Contact
                 </h3>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  (0281) 6848670, 6848505
+                  (0281)648676, WA: 085329028874
                 </span>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
                   info@smkwijayakusuma.sch.id

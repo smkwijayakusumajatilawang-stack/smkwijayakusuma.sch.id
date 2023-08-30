@@ -1,23 +1,22 @@
 ---
 templateKey: contact-page
-title: Contact
-heading: Contact us
-subheading: Visit us in our offices or simply drop us a message
+title: Kontak
+heading: Kontak Kami
+subheading: Silahkan hubungi kami dengan mengirim pesan ke form kontak ini
 contactform:
-  heading: Let's work together!
-  description: We'd love to hear from you. Send us a message using the form below,
-    or email us.
+  heading: Hubungi Kami
+  description: "Kami akan senang mendapat pesan dari Anda. Kirimkan pesan melalui formulir di bawah ini, atau kirimkan email kepada kami."
   image: /img/copernico-p_kicqcom4s-unsplash-1-.jpg
 office:
-  tagline: Our Office
-  location: London Spitalfield
+  tagline: Alamat Kami
+  location: Banyumas
   address: |-
-    UrbanGarden\
-    143 Fake Street\
-    London
+    Jalan Raya Jatilawang\
+    No. 2 Jatilawang\
+    Tanjung Wetan, Tanjung Kabupaten Banyumas Jawa Tengah
   phone: |-
-    Email: fake@urbangarden.com\
-    Phone: 01234 567 891\
-    Monday to Friday 9-6pm GMT.
+    Email: info@smkwijayakusuma.sch.id\
+    Phone: (0281)648676, 085329028874\
+    Monday to Friday 07.00-15.00 WIB.
   image: /img/klaudia-piaskowska-g3lrnieizq4-unsplash.jpg
 ---
