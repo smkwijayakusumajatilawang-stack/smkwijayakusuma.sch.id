@@ -5,8 +5,6 @@ heading: Visi dan Misi
 subheading: Nilai-nilai, Misi dan Budaya 
 ---
 
-![Dewa Guru](/img/para-guru.jpg "Dewan Guru")
-
 ## VISI
 
 Visi sebagai gambaran masa depan dari sebuah organisasi atau lembaga yang akan diwujudkan pada suatu saat yang ditentukan. Pernyataan Visi yang jelas  dapat memberikan aspirasi dan motivasi disamping memberikan panduan atau rambu-rambu organisasi atau lembaga dalam menyusun strategi. 
@@ -37,3 +35,5 @@ Mengupayakan pengembangan Sarana dan prasarana sesuai dengan perkembangan sarana
 
  **O = OSIS dan Budaya Sekolah** 
  Mengoptimalkan peran serta  Organisasi Siswa Intra Sekolah dan membangun budaya sekolah agar  tercipta  Iklim , kebijakan, pola interaksi dan komunikasi, serta norma-norma untuk mendukung internalisasi nilai-nilai luhur Pancasila ke dalam setiap diri individu peserta didik.  
+
+ ![Dewa Guru](/img/para-guru.jpg "Dewan Guru")
