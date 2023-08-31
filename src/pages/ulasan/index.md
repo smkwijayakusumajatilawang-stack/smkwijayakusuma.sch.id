@@ -5,6 +5,8 @@ heading: Ulasan Masyarakat
 subheading: Ulasan Masyarakat Tentang SMK Wijayakusuma Jatilawang 
 ---
 
+![Outbond SMK](/img/outbond-smk.jpg "Outbond SMK")
+
 ### Ulasan Positif Masyarakat tentang SMK Wijayakusuma Jatilawang
 
 > Pendidikan Berkualitas Tinggi: SMK Wijayakusuma Jatilawang dikenal dalam masyarakat sebagai lembaga pendidikan yang menyediakan pendidikan berkualitas tinggi. Kurikulum yang relevan dengan dunia industri dan teknologi, serta pendekatan pembelajaran yang inovatif, membuat para siswa/i mendapatkan pengetahuan dan keterampilan yang sesuai dengan tuntutan zaman.
@@ -22,5 +24,3 @@ subheading: Ulasan Masyarakat Tentang SMK Wijayakusuma Jatilawang
 > Persiapan Menuju Dunia Kerja: Salah satu aspek yang sangat diapresiasi oleh masyarakat adalah persiapan siswa untuk menghadapi dunia kerja setelah lulus. SMK Wijayakusuma membekali siswa dengan keterampilan praktis dan pengetahuan industri yang diperlukan, sehingga lulusan memiliki peluang lebih baik dalam karier masa depan.
 
 Pendapat-pendapat positif di atas mencerminkan kepercayaan masyarakat terhadap kualitas dan integritas SMK Wijayakusuma Jatilawang dalam memberikan pendidikan yang baik.
-
-![Rooftop gardens](/img/chuttersnap-nxjyzlbnyuq-unsplash.jpg "Rooftop gardens")

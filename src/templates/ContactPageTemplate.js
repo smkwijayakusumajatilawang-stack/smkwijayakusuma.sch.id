@@ -115,7 +115,7 @@ function ContactPageTemplate({
           <div className="mt-2 py-3 text-right">
             <button
               type="submit"
-              className="inline-flex justify-center py-2 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-purple-700 hover:bg-purple-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500"
+              className="inline-flex justify-center py-2 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-fuchsia-500 hover:bg-purple-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500"
             >
               Submit
             </button>
@@ -124,7 +124,7 @@ function ContactPageTemplate({
       </TextImageSplit>
 
       <TextImageSplit image={office.image} imageLeft={true}>
-        <p className="text-green-700 font-semibold tracking-wide">
+        <p className="text-fuchsia-500 font-semibold tracking-wide">
           {office.tagline}
         </p>
         <SectionHeading>{office.location}</SectionHeading>

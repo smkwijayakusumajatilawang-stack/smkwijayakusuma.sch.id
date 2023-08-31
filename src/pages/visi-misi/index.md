@@ -3,20 +3,10 @@ templateKey: visimisi-page
 title: Visi Misi
 heading: Visi dan Misi
 subheading: Nilai-nilai, Misi dan Budaya 
-team:
-  - name: Courtney Henry
-    image: /img/joanna-nix-walkup-p7zgmc33s0u-unsplash.jpg
-    title: Founder / CEO
-  - name: Michael Foster
-    title: Architect
-    image: /img/rui-silvestre-hamjpesmede-unsplash.jpg
-  - name: Leslie Alexander
-    title: Landscape Gardener
-    image: /img/brooke-cagle-norsyxmhgpi-unsplash-1-.jpg
-  - name: Dries Vincent
-    title: Manager, Business Relations
-    image: /img/bruce-mars-8yg31xn4dsw-unsplash-1-.jpg
 ---
+
+![Dewa Guru](/img/para-guru.jpg "Dewan Guru")
+
 ## VISI
 
 Visi sebagai gambaran masa depan dari sebuah organisasi atau lembaga yang akan diwujudkan pada suatu saat yang ditentukan. Pernyataan Visi yang jelas  dapat memberikan aspirasi dan motivasi disamping memberikan panduan atau rambu-rambu organisasi atau lembaga dalam menyusun strategi. 
@@ -25,9 +15,7 @@ Bagi Lembaga Pendidikan , seperti sekolah Visi menjelaskan kepada semua  guru ka
 
 Visi SMK Wijayakusuma Jatilawang adalah **INSAN KAMIL** yang merupakan akronim dari: 
 
->Tersedianya layanan pendidikan yang berkualitas untuk menghasilkan lulusan yang dapat menampilkan dirinya sebagai **IN**dividu yang **SAN**tun,**KA**pabilitas kompetensi yang memadai, serta me**MIL**iki karakter nilai-nilai luhur Pancasila sebagai pandangan hidupnya
-
-![Rooftop gardens](/img/chuttersnap-nxjyzlbnyuq-unsplash.jpg "Rooftop gardens")
+>Tersedianya layanan pendidikan yang berkualitas untuk menghasilkan lulusan yang dapat menampilkan dirinya sebagai **IN**dividu yang **SAN**tun,**KA**pabilitas kompetensi yang memadai, serta me**MIL**iki karakter nilai-nilai luhur Pancasila sebagai pandangan hidupnya.
 
 ## MISI
 
