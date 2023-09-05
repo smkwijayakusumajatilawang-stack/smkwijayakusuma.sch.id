@@ -18,7 +18,7 @@ team:
     image: /img/bruce-mars-8yg31xn4dsw-unsplash-1-.jpg
 ---
 
-![Kepala Sekolah](/img/masturi.s.ag.-kepala-smk-wijayakusuma-jatilawang.jpg "Kepala Sekolah")
+![Kepala Sekolah](/img/kepsek-smkwijayakusumajatilawang.jpg "Kepala Sekolah")
 
 ### Selamat datang di halaman resmi SMK Wijayakusuma Jatilawang!
 

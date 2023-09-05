@@ -4,8 +4,8 @@ title: Tentang SMK Wijayakusuma Jatilawang
 heading: Tentang Kami
 subheading: SMK Wijayakusuma Jatilawang
 team:
-  - name: Masturi, S.Ag
-    image: /img/masturi.s.ag.-kepala-smk-wijayakusuma-jatilawang.jpg
+  - name: Masturi, S.Ag.
+    image: /img/kepsek-smkwijayakusumajatilawang.jpg
     title: Kepala SMK Wijayakusuma Jatilawang
   - name: "Mamang Mudiono.S.E. "
     title: Wakil Kepala Sekolah Bidang Kurikulum
@@ -13,7 +13,7 @@ team:
   - name: "Sugiyono.S.Pd. "
     title: Wakil Kepala Sekolah Bidang Kesiswaan
     image: /img/sugiyono.s.pd.-wakil-kepala-sekolah-bidang-kesiswaan.jpg
-  - name: Eko Waluyo, MM
+  - name: Eko Waluyo, M.Pd.
     title: Wakil Kepala Sekolah Bidang Dudi dan Humas
     image: /img/fto-wakil-kepala-sekolah-bidang-dudi-dan-humas.jpg
 ---

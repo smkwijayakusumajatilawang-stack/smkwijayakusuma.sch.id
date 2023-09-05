@@ -16,7 +16,7 @@ office:
     Tanjung Wetan, Tanjung Kabupaten Banyumas Jawa Tengah
   phone: |-
     Email: info@smkwijayakusuma.sch.id\
-    Phone: (0281)648676, 085329028874\
+    Phone: (0281)68487670, 085329028874\
     Monday to Friday 07.00-15.00 WIB.
   image: /img/inhouse-training.jpg
 ---

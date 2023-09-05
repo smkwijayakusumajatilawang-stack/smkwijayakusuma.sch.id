@@ -66,6 +66,7 @@ const Navbar = ({ className }) => {
             <div className="text-xl font-bold tracking-wide lg:text-2xl">
               <span className="text-gray-800 font-semibold">SMK</span>
               <span className="text-fuchsia-500">Wijayakusuma</span>
+              <span className="text-fuchsia-500">Jatilawang</span>
             </div>
           </Link>
 
@@ -116,7 +117,7 @@ const Navbar = ({ className }) => {
                 setMenuOpen(false)
               }}
             >
-              Visi Misi
+              VisiMisi
             </ExactNavLink>
             <PartialNavLink
               to="/departemen"

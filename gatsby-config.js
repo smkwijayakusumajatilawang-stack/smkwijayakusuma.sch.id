@@ -4,7 +4,7 @@ const siteUrl =
 module.exports = {
   trailingSlash: `always`,
   siteMetadata: {
-    title: "SMK Wijayakusuma",
+    title: "SMK Wijayakusuma Jatilawang",
     description:
       "Official website SMK Wijayakusuma Jatilawang Purwokerto",
     siteUrl: "https://smkwijayakusuma.sch.id",
@@ -41,6 +41,7 @@ module.exports = {
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
+    "gatsby-plugin-sitemap",
     {
       resolve: "gatsby-transformer-remark",
       options: {
