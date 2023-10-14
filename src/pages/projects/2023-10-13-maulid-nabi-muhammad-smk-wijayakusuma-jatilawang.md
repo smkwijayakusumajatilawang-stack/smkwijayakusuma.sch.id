@@ -8,26 +8,30 @@ featuredimage:
   alt: "#MAULID NABI #HABIBHAEDAR #JATILAWANGKEREN"
 location: LAPANGAN DIPONEGORO JATILAWANG
 ---
-# `MaulidNabiMuhhamad - ‘Wiku Bersholawat’`
+### `M﻿aulid Nabi Muhammad - Wiku Bersholawat`
 
-##### `Maulid Nabi Muhammad adalah hari memperingati kelahiran Nabi Muhammaad SAW, yang telah mendirikan Agama Islam.Dalam penanggalan Islam Maulid jatuh pada 12 Robiul Awal.Maulid bertujuan agar para Umat Islam senantiasa mengingat/mengenang ajaran dan kepemimpinan Nabi Muhammad SAW.Peringatan Maulid juga mencerminkan cinta dan kasih sayang umat Islam pada Rosulullah dan membuat Umat islam untuk merenungkan ajaran Nabi yang penuh hikmah.
+### M﻿aulid Nabi Muhammad adalah hari mempringati kelahiran Nabi muhammad SAW, yang telah mendirikan agama Islam. Maulid jatuh pada 12 Robiul Awal dalam penanggalan Islam. merayakan maulid Nabi Muhammad mencerminkan cinta dan kasih sayang umat islam kepada Rosululloh dan suatu bentuk untuk merenungi ajaran beliau yang penuh hikmah. tujuan diadakannya Maulid yaitu agar semua umat Muslim didunia senantiasa mengingat/merenungi ajaran Nabi Muhammad.
 
-Nabi Muhammad lahir dikota Mekkah, arab pada tahun 570 M. Beliau adalah pendiri Agama Islam dan menjadi Nabi terakhir dalam Islam. Nabi Muhammad dikenal sebagai  ‘Rosululloh’ (NABI TERPILIH) pada kehidupan awal Nabi Muhammad.Nabi Muhammad menerima wahyu dari malaikat Jibril, beliau menerima wahyu pada umur 40 tahun.Nabi Muhammad tumbuh dilingkungan yang pada jamanya banyak menglami konflik di Makkah.Beliau hidup dengan gaya hidup yang sederhana, sebelum menerima wahyu dari allah beliau adalah seorang pedagang yang jujur dan dapat dipercaya (al-amin).Khadijah Bin Khuwailid sebagai istri pertama Nabi Muhammad, anak dari beliau dan khadijah Bin Khuwailid adalah Fatimah Binti Muhammad.Nabi Muhammad menjadi “sempelterbaik” bagi para umat islam, beliau menjadi contoh baik bagi para umatnya diseluruh Dunia. Agama islam semakin berkembang setelah Nabi Muhammad wafat/meninggal di Madinnah pada tahun 632 Masehi.`
+###### N﻿abi Muhammad lahir pada 12 Robiul Awal tahun 570 Masehi, di kota Mekkah (Arab). beliau tumbuh dilingkungan yang sederhana, sebelum menerima wahyu beliau dulunya seorang pedagang yang jujur dan dapat dipercaya (Al- Amin). beliau hidup dijaman dimana saat itu kota Makkah tengah banyak mengalami konflik.  istri pertama Nabi Muhammad adalah Khadijah Bin Khuwailid, mereka memiliki anak perempuan bernama Fatimah Binti Muhammad. Nabi muhammad menerima wahyu dari allah melalui Malaikat Jibril,pada saat beliau berumur 40 tahun. Nabi Muhammad menjadi Nabi terakhir dan Nabi terpilih "*ROSULULLOH*" Pada awal kehidupan Nabi Muhammad SAW. Beliau juga menjadi "*sempel terbaik*"  bagi umat islam dan menjadi contoh yang baik bagi seluruh umatnya yang ada di dunia. Nabi Muhammad wafat pada tahun 632 di Madinah, Agama Islam semakin berkembaang setelah Beliau wafat.
 
-###### **WIKU BERSHOLAWAT**
+**W﻿IKU BERSHOLAWAT** 
 
-###### Pada maulid ini smk wijayakususma jatilawang sholawat bersama Habib Haedar Assegaf pada tanggal 11 Oktober 2023 tepatnya di Lapangan Diponegoro Jatilawang dihadiri semua elemen masyarakat dimulai dari anakanak, ibu rumah tangga, dan masih banyak lagi. Pada kegiatan kemarin bapak kapolsek Jatilawang turut hadir dan memberikan himbauan untuk menjaga barang bawaanya masing masing selama kegiatan sholawat berlangsung. Kegiatan berlangsung meriah dihadiri kurang lebih 3000 jamaah.
+Pada Maulid ini SMK Wijayakusuma Jatilawang merayakannya dengan sholawat bersama Habib Haedar Assegaf pada tanggal 11 Oktober 2023 di Lapangan Diponegoro Jatilawang yang dihadiri oleh semua elemen mulai dari anak-anak, Ibu Rumah Tanggga, dan masih banyak lagi. Pada kegiatan tersebut Bapak Kapolsek Jatilawang turut hadir dan memberikan himbauan untuk menga barang bawaanya masing-masing selama kegiatan sholawat berlangsung. kegiatan berlangsung meriah yang dihadiri kurang lebih 3000 jamaah.
 
-1. ###### **MANFAAT BERSHOLAWAT**
-2. ###### 1﻿. Memperingati hari kelahiran Rosulullah
-3. ###### Mendorongumatmuslimmembacasholawat.
-4. ###### MengungkapkankegembiraandankesenanganterhadapNabi Muhammad SAW
-5. ###### Meningkatkan rasa syukur .
-6. ###### Mengajarkankedermawaandankemurahanhati.
-7. ###### Menyambungtalisilaturahmi.
-8. ###### Mendapatkeberkahan.
-9. ###### Dengan bersolawat diharapkan dapat meningkatkan takwa dan keimanan kita kepada Allah SWT.Meningkatkan semangat belajar siswa/siswi SMK Wijayakusuma Jatilawang menyambung silatura
 
-   ![]()
 
-   ###### hmi serta mendapat syafaat dari Rosululloh.
+**M﻿anfaat Bersholawat** 
+
+
+
+1. M﻿emperingati hari kelahiran Rosululloh SAW, sebagai bentuk salah satu kecintaan umat islam kepadanya
+2. M﻿endorong umat Muslim membaca sholawat 
+3. M﻿engungkapkan kegembiraan dan kesenangan terhadap Nabi Muhammad SAW
+4. M﻿eningkatkan rasa syukur 
+5. m﻿engajarkan kedermawaan dan kemurahan hati
+6. M﻿enyambung tali silaturahmi
+7. M﻿endapat keberkahan.
+
+D﻿engan bersholawat diharapkan dapat meningkatkan takwa dan keimanan kita kepada Allah SWT. Meningkatkan semangat belajar siswa/siswi SMK Wijayakusuma Jatilawang meyambung tali silaturahmi serta mendapat syafaat dari Rosululloh.
+
+![]()
