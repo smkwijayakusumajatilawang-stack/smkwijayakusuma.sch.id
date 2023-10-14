@@ -1,7 +1,7 @@
 ---
 templateKey: project-page
 title: MAULID NABI MUHAMMAD "SMK WIJAYAKUSUMA JATILAWANG"
-date: 2023-10-13T03:56:35.847Z
+date: 2023-10-14T04:27:21.838Z
 featured: true
 featuredimage:
   image: /img/habib.jpg
