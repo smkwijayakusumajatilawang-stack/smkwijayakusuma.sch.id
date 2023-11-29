@@ -8,11 +8,7 @@ featuredimage:
   alt: '"Bergerak Bersama Rayakan Merdeka Belajar" Guru SMK WIKU UNGGUL dan Berilmu'
 location: Jatilawang Banyumas
 ---
-
-
-
-
- **           Hari Guru Nasional: Memperingati Jasa-Jasa Pahlawan Tanpa Tanda Jasa**
+**Hari Guru Nasional: Memperingati Jasa-Jasa Pahlawan Tanpa Tanda Jasa**
 
 Setiap tanggal 25 November diperingati sebagai Hari Guru Nasional di Indonesia. Peringatan ini merupakan momen untuk mengenang dan menghargai jasa-jasa guru yang telah berdedikasi dalam mencerdaskan kehidupan bangsa. Peran guru sebagai pendidik dan pembimbing memiliki nilai yang sangat penting dalam membentuk generasi penerus bangsa yang berkualitas.
 
