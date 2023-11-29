@@ -16,6 +16,8 @@ Setiap tanggal 25 November diperingati sebagai Hari Guru Nasional di Indonesia. 
 
 Hari Guru Nasional ditetapkan pada Keputusan Presiden Nomor 71 Tahun 1994. Penetapan ini didasari atas semangat untuk memperingati perjuangan dan pengabdian guru-guru bangsa yang telah berjuang tanpa pamrih untuk mencerdaskan kehidupan bangsa Indonesia.
 
+![](/img/whatsapp-image-2023-11-29-at-21.42.56.jpeg)
+
 **Tema Hari Guru Nasional 2023**
 
 Tema Hari Guru Nasional tahun 2023 adalah "Bergerak Bersama Rayakan Merdeka Belajar"  yang selaras dengan semangat Merdeka Belajar yang dicanangkan oleh Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi. Tema ini mengajak para guru untuk terus berinovasi dan mengembangkan metode pembelajaran yang kreatif dan efektif agar dapat melahirkan generasi yang siap menghadapi tantangan di masa depan.
@@ -64,6 +66,8 @@ Bantu guru dalam tugas-tugasnya, seperti membersihkan kelas atau membantu dalam 
 
 **Menjaga komunikasi dengan guru:** 
 
+![](/img/whatsapp-image-2023-11-26-at-23.13.48.jpeg)
+
 Jaga komunikasi dengan guru, baik untuk bertanya pelajaran maupun untuk sekadar bertukar kabar.
 
  Perayaan hari guru di SMK Wijayakusuma Jatilawang berlangsung sangat meriah haru dan menyenangkan. dimulai dengan apel peringatan hariguru, pembacaan puisi oleh ananda Alya Sawalina dari kelas XI AKL 3 dan dilanjutkan dengan penyampaiaan trimakasih dari perwakilan siswa yang diwakilkan oleh ananda Zahrotusiva dari kelas X MPLB 1, pada perayaan tersebut dilakukan juga pemotongan tumpeng dan melepaskan balon ke udara sebagai tanda syukur warga sekolah atas jasa guru yang telah mengamalkan ilmunya.         
@@ -73,3 +77,11 @@ Jaga komunikasi dengan guru, baik untuk bertanya pelajaran maupun untuk sekadar 
 **Kesimpulan**
 
 Guru merupakan sosok yang sangat penting dalam kehidupan kita. Jasa-jasanya dalam mencerdaskan kehidupan bangsa tidak ternilai harganya. Oleh karena itu, marilah kita senantiasa menghormati dan menghargai jasa-jasa guru dengan cara belajar yang rajin, menaati peraturan sekolah, dan membantu guru dalam tugas-tugasnya. *Selamat Hari Guru Nasional!*
+
+*B﻿uru-Buru Ke Pasar Untuk Membeli Bawang*
+
+*J﻿angan Lupa Membeli Buah Duku*
+
+*G﻿uru-Guru SMK Wiku Jatilawang* 
+
+*B﻿ermutu dan Memang Berilmu*
