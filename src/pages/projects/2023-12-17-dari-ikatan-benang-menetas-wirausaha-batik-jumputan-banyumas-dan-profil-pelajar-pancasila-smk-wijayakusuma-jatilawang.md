@@ -54,6 +54,8 @@ Batik jumputan merupakan salah satu kekayaan budaya Indonesia. Batik jumputan ha
 
 Batik jumputan adalah salah satu budaya dan kebekerjaan yang perlu dilestarikan. Batik jumputan dapat menjadi peluang usaha bagi masyarakat Banyumas dan dapat mengembangkan profil pelajar Pancasila, dengan belajar bbatik jumputan melalui kegiatan P5 ini diharapkan siswa-siswi memiliki jiwa wirausaha dan dapat mengembangkan batik jumputan sebagai produk sandang unggulan dikalangan generasi z..
 
+\#batikjumputan: Budaya dan Kebekerjaan#batikbanyumas: Peluang Usaha bagi Masyarakat#kebudayaanindonesia: Batik Jumputan, Warisan yang Harus Dilestarikan #kebekerjaan: Batik Jumputan, Peluang Kerja bagi Generasi Muda#profilpelajarpancasila: Batik Jumputan, Bukti Kreatifitas dan Inovatif
+
 ![](/img/whatsapp-image-2023-12-08-at-18.23.47.jpeg)
 
 P﻿enulis ; Eko Waluyo.M.Pd
