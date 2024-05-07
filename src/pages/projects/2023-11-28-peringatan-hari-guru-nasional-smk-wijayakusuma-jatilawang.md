@@ -1,7 +1,7 @@
 ---
 templateKey: project-page
 title: Peringatan Hari Guru Nasional SMK WIJAYAKUSUMA Jatilawang
-date: 2023-11-28T15:24:09.576Z
+date: 2024-05-06T05:24:00.000Z
 featured: true
 featuredimage:
   image: /img/whatsapp-image-2023-11-28-at-09.20.32.jpeg
