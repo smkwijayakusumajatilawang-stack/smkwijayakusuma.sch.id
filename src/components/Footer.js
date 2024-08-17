@@ -130,7 +130,7 @@ const Footer = () => {
 
         <div>
           <p className="text-center text-gray-800 dark:text-white">
-            © SMK Wijayakusuma Jatilawang 2023 - All rights reserved
+            © SMK Wijayakusuma Jatilawang 2024 - All rights reserved
           </p>
         </div>
       </div>
