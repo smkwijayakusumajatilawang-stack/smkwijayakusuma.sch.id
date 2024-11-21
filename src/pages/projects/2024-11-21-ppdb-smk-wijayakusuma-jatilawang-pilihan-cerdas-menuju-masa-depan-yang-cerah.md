@@ -1,8 +1,8 @@
 ---
 templateKey: project-page
 title: "PPDB SMK Wijayakusuma Jatilawang: Pilihan Cerdas Menuju Masa Depan yang Cerah"
-date: 2024-11-21T01:24:03.990Z
-featured: true
+date: 2024-11-21T01:50:51.903Z
+featured: false
 featuredimage:
   image: /img/smk-wijayakusuma-jatilawang.jpg
   alt: "SMK Wiku Unggul "
