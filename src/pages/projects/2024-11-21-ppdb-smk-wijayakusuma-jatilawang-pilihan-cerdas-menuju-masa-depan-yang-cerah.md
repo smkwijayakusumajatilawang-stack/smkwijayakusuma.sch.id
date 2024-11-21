@@ -8,8 +8,6 @@ featuredimage:
   alt: "SMK Wiku Unggul "
 location: Jatilawang, Banyumas Jawatengah
 ---
-
-
 **Jatilawang, Banyumas –** Bagi siswa-siswi SMP yang ingin melanjutkan pendidikan ke jenjang SMK dan memiliki minat di bidang kreatif, bisnis, atau administrasi, **SMK Wijayakusuma Jatilawang** adalah pilihan yang tepat. Dengan akreditasi A, sekolah ini telah membuktikan kualitas pendidikan yang unggul dan relevan dengan kebutuhan dunia kerja.
 
 **Mengapa Memilih SMK Wijayakusuma Jatilawang?**
@@ -43,6 +41,4 @@ Pendaftaran siswa baru SMK Wijayakusuma Jatilawang telah dibuka. Segera daftarka
 
 **Informasi Kontak:** SMK Wijayakusuma Jatilawang Jl. Raya No. 2 Jatilawang Tunjung, Jatilawang, Banyumas Jawa Tengah 
 
-**\#SMKWijayakusumaJatilawang #PPDB2024 #JurusanUnggulan #MasaDepanCerah**
-
-<!--EndFragment-->
+**\#SMKWijayakusumaJatilawang #PPDB2024 #JurusanUnggulan #Masadepan**
