@@ -17,7 +17,7 @@ function ContactPageTemplate({
         <p className="mt-6 text-gray-500 text-lg">
           {contactform.description}
         </p>
-        <form action="https://getform.io/f/09f2a11c-bf54-40d6-b074-1eb05df28b40" method="POST">
+        <form action="https://getform.io/f/bejrrjda" method="POST">
           <div className="mt-6">
             <div className="grid grid-cols-6 gap-6">
               <div className="col-span-6 sm:col-span-3">
