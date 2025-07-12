@@ -1,7 +1,7 @@
 ---
 templateKey: project-page
 title: 'Bekali Guru, Siapkan Generasi Digital: Gema Workshop " Deep Learning "'
-date: 2025-07-12T06:15:06.117Z
+date: 2025-07-11T06:15:06.117Z
 featured: true
 featuredimage:
   image: /img/worshop-ikm.png
