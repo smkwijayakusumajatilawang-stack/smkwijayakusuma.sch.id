@@ -12,7 +12,7 @@ location: "Jatilawang, Banyumas "
 
 Fokus utama acara ini adalah menjembatani pemahaman teknologi canggih seperti *deep learning* dengan pola pikir bertumbuh (*growth mindset*), sebuah bekal esensial bagi para guru untuk membimbing siswa mereka secara efektif.
 
-![]()
+![](/img/whatsapp-image-2025-07-11-at-15.21.26-1-.jpeg)
 
 ### Memahami Tantangan Masa Depan: Sekilas tentang Deep Learning
 
@@ -48,8 +48,6 @@ Bagi para guru dari SMK Wijayakusuma Jatilawang dan SMK Dipo Negoro 2 Rawalo, wo
 Workshop yang dipandu oleh Ibu Erni Pudji Astuti ini meninggalkan pesan yang mendalam bagi para pendidik yang hadir. Fondasi untuk melahirkan generasi yang siap menghadapi masa depan—yang tangguh, adaptif, dan inovatif—ada di tangan para guru.
 
 Dengan membekali diri mereka dengan *growth mindset*, para guru dari SMK Wijayakusuma Jatilawang dan SMK Dipo Negoro 2 Rawalo kini tidak hanya lebih siap untuk mengajar tentang teknologi, tetapi juga untuk menginspirasi dan mencetak generasi pembelajar seumur hidup yang tidak takut pada tantangan.
-
-
 
 ### \#﻿KurikulumMerdeka
 
