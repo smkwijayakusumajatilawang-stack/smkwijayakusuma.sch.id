@@ -2,7 +2,7 @@
 templateKey: project-page
 title: Menggali Potensi Siswa Melalui Workshop Pembelajaran Mendalam di SMK
   Wijayakusuma Jatilawang
-date: 2025-09-30T03:54:57.916Z
+date: 2025-09-25T04:01:00.000Z
 featured: true
 featuredimage:
   image: /img/lokakarya-1-.jpg
