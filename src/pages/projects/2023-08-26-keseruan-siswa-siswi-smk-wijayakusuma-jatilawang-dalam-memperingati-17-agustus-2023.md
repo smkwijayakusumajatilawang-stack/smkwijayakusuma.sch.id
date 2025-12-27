@@ -2,7 +2,7 @@
 templateKey: project-page
 title: Keseruan siswa siswi SMK Wijayakusuma Jatilawang dalam memperingati 17
   Agustus 2023
-date: 2023-08-26T00:42:43.175Z
+date: 2025-12-27T05:37:40.793Z
 featured: true
 featuredimage:
   image: /img/kegiatan-17-an.jpg
