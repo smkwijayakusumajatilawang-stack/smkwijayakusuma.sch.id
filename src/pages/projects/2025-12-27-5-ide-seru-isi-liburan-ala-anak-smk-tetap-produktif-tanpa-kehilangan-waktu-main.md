@@ -9,8 +9,6 @@ featuredimage:
   alt: smk wijayakusuma Jatilawang
 location: Jatilawang, Banyumas
 ---
-
-
 > Tetap Produktif Tanpa Kehilangan Waktu Main!
 
 **L**iburan semester akhirnya tiba! Setelah berbulan-bulan berkutat dengan tugas produktif, laporan praktikum, hingga ujian di bengkel atau lab, sekarang waktunya tarik napas dalam-dalam.
@@ -19,7 +17,7 @@ Tapi, jangan sampai liburanmu cuma habis buat *scrolling* TikTok sampai jempol k
 
 Berikut adalah 5 ide seru yang bisa kamu lakukan:
 
-![](/img/gemini_generated_image_f6q6onf6q6onf6q6.png)
+![#smkbisa](/img/gemini_generated_image_f6q6onf6q6onf6q6.png "smkwijayakusuma Jatilawang")
 
 ### 1. "Upgrade" Skill Lewat Kursus Online Gratis
 
