@@ -1,7 +1,7 @@
 ---
 templateKey: project-page
 title: SMK Wijayakusuma Jatilawang Sukses Gelar Tes Kemampuan Akademik (TKA) 2026
-date: 2026-11-03T03:28:10.152Z
+date: 2026-10-29T03:28:10.152Z
 featured: true
 featuredimage:
   image: /img/hijau-dan-putih-modern-hari-santri-nasional-konten-instagram.png
