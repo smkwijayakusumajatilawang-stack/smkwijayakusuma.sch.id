@@ -24,6 +24,6 @@ Pelaksanaan TKA bertujuan untuk mengukur tingkat kompetensi akademik siswa, meme
 
 Kepala SMK Wijayakusuma Jatilawang, **Masturi, S.Ag.**, menyampaikan bahwa persiapan matang pada sarana prasarana merupakan prioritas utama sekolah dalam menunjang kegiatan akademik maupun menarik minat calon peserta didik baru.
 
-*"Kami memastikan seluruh ruang laboratorium disiapkan dengan sangat baik, didukung oleh jaringan internet yang cepat dan stabil. Fasilitas yang mumpuni ini tidak hanya menunjang kelancaran TKA, tetapi juga menjadi bukti kesiapan SMK Wijayakusuma Jatilawang dalam menyajikan pembelajaran berbasis teknologi modern, yang diharapkan dapat makin menarik minat para siswa SMP untuk melanjutkan pendidikannya di sekolah kami,"* ujar **Masturi, S.Ag.**
+> *"Kami memastikan seluruh ruang laboratorium disiapkan dengan sangat baik, didukung oleh jaringan internet yang cepat dan stabil. Fasilitas yang mumpuni ini tidak hanya menunjang kelancaran TKA, tetapi juga menjadi bukti kesiapan SMK Wijayakusuma Jatilawang dalam menyajikan pembelajaran berbasis teknologi modern, yang diharapkan dapat makin menarik minat para siswa SMP untuk melanjutkan pendidikannya di sekolah kami,"* ujar **Masturi, S.Ag.**
 
 Melalui suksesnya penyelenggaraan TKA ini, SMK Wijayakusuma Jatilawang terus menegaskan komitmennya untuk mencetak lulusan yang tidak hanya terampil di bidang kejuruan, tetapi juga unggul secara akademik dan didukung oleh fasilitas pendidikan berstandar tinggi.
