@@ -1,7 +1,7 @@
 ---
 templateKey: project-page
 title: SMK Wijayakusuma Jatilawang Melaksanakan Kunjungan Industri dan Studi
-  Edukasi ke Jawa Timur untuk Jurusan DKV
+  Edukasi ke Jawa Timur untuk Jurusan DKV, MPLB dan  AKL
 date: 2026-10-16T03:42:59.154Z
 featured: true
 featuredimage:
@@ -9,34 +9,34 @@ featuredimage:
   alt: "#KunjunganIndustri"
 location: Jatilawang, Banyumas
 ---
-**SMK Wijayakusuma Jatilawang Gelar Kunjungan Industri dan Studi Edukasi ke Jawa Timur untuk Jurusan DKV**
+**SMK Wijayakusuma Jatilawang Gelar Kunjungan Industri dan Studi Edukasi ke Jawa Timur untuk Jurusan DKV, MPLB, dan AKL**
 
-Dalam upaya memperluas wawasan industri serta memperkaya kreativitas siswa, SMK Wijayakusuma Jatilawang menyelenggarakan kegiatan **Kunjungan Industri (KI) dan Studi Edukasi** ke Jawa Timur khusus bagi siswa jurusan Desain Komunikasi Visual (DKV). Rangkaian kegiatan ini memadukan eksplorasi dunia kerja profesional di industri kreatif dan manufaktur dengan studi visual di berbagai destinasi wisata edukatif terkemuka.
+Dalam upaya memperluas wawasan industri serta memperkaya keterampilan praktis siswa, SMK Wijayakusuma Jatilawang menyelenggarakan kegiatan **Kunjungan Industri (KI) dan Studi Edukasi** ke Jawa Timur. Kegiatan ini diikuti oleh siswa lintas keahlian, meliputi jurusan **Desain Komunikasi Visual (DKV)**, **Manajemen Perkantoran dan Layanan Bisnis (MPLB)**, serta **Akuntansi dan Keuangan Lembaga (AKL)**. Rangkaian program ini memadukan observasi dunia kerja profesional di berbagai sektor industri dengan studi visual di destinasi wisata edukatif terkemuka.
 
-**Eksplorasi Dunia Kerja dan Industri Kreatif**
+### Eksplorasi Dunia Kerja dan Industri (DUDI)
 
-Kunjungan industri difokuskan pada empat destinasi utama di Jawa Timur untuk memberikan gambaran nyata mengenai penerapan keahlian DKV di lapangan:
+Kunjungan industri dipusatkan di empat lokasi utama di Jawa Timur untuk memberikan gambaran nyata mengenai penerapan keahlian masing-masing jurusan di dunia kerja:
 
-* **PT. Amerta Indah Otsuka:** Siswa mempelajari strategi komunikasi visual, pemerek (*branding*), serta desain kemasan produk multinasional dalam mendukung pemasaran skala global.
-* **PT. Yakult Indonesia Persada:** Membuka wawasan peserta didik mengenai peran media komunikasi, strategi kampanye publikasi, dan standar visual perusahaan manufaktur terkemuka.
-* **MoCa Studio:** Memberikan pengalaman langsung mengenai alur kerja industri kreatif modern, mulai dari desain grafis, animasi, hingga manajemen proyek studio profesional.
-* **JTV (Jawa Timur TV):** Mengajarkan dinamika industri penyiaran dan pertelevisian, mencakup tata kelola studio, teknik videografi, pengoperasian kamera, hingga proses penyuntingan video (*editing*).
+* **PT. Amerta Indah Otsuka:** Siswa jurusan **AKL** dan **MPLB** mempelajari manajemen rantai pasok, tata kelola administrasi operasional, serta sistem pencatatan keuangan perusahaan manufaktur modern. Sementara siswa **DKV** mengamati strategi komunikasi visual, pemerek (*branding*), dan desain kemasan produk multinasional.
+* **PT. Yakult Indonesia Persada:** Memberikan wawasan langsung mengenai penerapan sistem manajemen mutu, tata kelola arsip dan administrasi perkantoran bagi jurusan **MPLB**, mekanisme pelaporan internal untuk **AKL**, serta strategi kampanye publikasi dan standar visual perusahaan bagi **DKV**.
+* **MoCa Studio:** Menjadi ruang pembelajaran khusus bagi siswa **DKV** untuk mengamati alur kerja industri kreatif modern, mulai dari desain grafis, animasi, hingga manajemen proyek studio profesional.
+* **JTV (Jawa Timur TV):** Mengajarkan dinamika industri penyiaran dan pertelevisian kepada siswa **DKV**, mencakup tata kelola studio penyiaran, teknik videografi, pengoperasian kamera, hingga proses penyuntingan video (*editing*).
 
-**Studi Edukasi dan Eksplorasi Visual**
+### Studi Edukasi dan Eksplorasi Visual
 
-Selain berkunjung ke dunia usaha dan dunia industri (DUDI), para siswa DKV juga diajak mengasah kepekaan estetika, tata letak, dan pemahaman tata ruang melalui eksplorasi visual di tiga destinasi populer:
+Selain kegiatan kunjungan industri, seluruh peserta dari jurusan DKV, MPLB, dan AKL juga diajak menyegarkan pikiran sekaligus memperluas wawasan budaya dan estetika di tiga destinasi populer:
 
-* **Museum Angkut:** Menjadi sarana bagi siswa untuk mempelajari sejarah transportasi dunia sekaligus mengeksplorasi konsep desain tematik (*thematic set design*), tata pencahayaan (*lighting*), dan fotografi arsitektural.
-* **Jatim Park 1:** Memadukan sarana rekreasi dan wahana edukasi sains budaya, yang memberikan inspirasi bagi siswa dalam memahami pengemasan media pembelajaran interaktif.
-* **Flora Wisata San Terra de Laponte:** Menyajikan pemandangan taman bunga berlatar arsitektur khas Eropa dan Korea, yang menjadi lokasi ideal bagi siswa untuk mempraktikkan teknik fotografi luar ruang (*outdoor photography*) dan komposisi warna natural.
+* **Museum Angkut:** Sarana bagi siswa untuk mempelajari sejarah transportasi dunia sekaligus mengamati konsep desain tematik (*thematic set design*), tata pencahayaan, dan tata kelola sarana publik.
+* **Jatim Park 1:** Memadukan rekreasi dan wahana edukasi sains-budaya sebagai media pembelajaran interaktif di luar kelas.
+* **Flora Wisata San Terra de Laponte:** Menyajikan pemandangan taman bunga berlatar arsitektur khas Eropa dan Korea, yang menjadi lokasi ideal untuk praktik fotografi luar ruang (*outdoor photography*) serta ruang kebersamaan antar-siswa.
 
-**Penguatan Keterampilan dan Pengalaman Belajar**
+### Penguatan Keterampilan Kejuruan Terpadu
 
-Kepala SMK Wijayakusuma Jatilawang, **Masturi, S.Ag.**, menyampaikan bahwa kombinasi antara kunjungan industri dan wisata edukasi ini dirancang untuk memberikan pengalaman belajar yang seimbang dan menyenangkan bagi peserta didik.
+Kepala SMK Wijayakusuma Jatilawang, **Masturi, S.Ag.**, menyambut positif suksesnya pelaksanaan kegiatan gabungan ini sebagai bagian dari penguatan kompetensi siswa di semua bidang keahlian.
 
-*"Kunjungan ke berbagai perusahaan media, studio kreatif, serta objek wisata edukatif di Jawa Timur ini merupakan langkah kami untuk membuka cakrawala berpikir siswa DKV. Kami ingin mereka tidak hanya menguasai keterampilan teknis di sekolah, tetapi juga mendapatkan inspirasi visual yang kaya dan memahami standar profesionalisme dunia kerja,"* ujar **Masturi, S.Ag.**
+> *"Kunjungan industri ke berbagai perusahaan terkemuka, studio kreatif, serta destinasi wisata edukatif di Jawa Timur ini merupakan langkah nyata sekolah dalam menyelaraskan kurikulum dengan dunia kerja. Kami ingin siswa dari jurusan DKV, MPLB, maupun AKL tidak hanya mahir secara teori di kelas, tetapi juga memahami standar operasional, kedisiplinan, dan profesionalisme di dunia industri sesungguhnya,"* tegas **Masturi, S.Ag.**
 
-Melalui kegiatan terpadu ini, SMK Wijayakusuma Jatilawang terus berkomitmen mencetak lulusan DKV yang kreatif, berorientasi industri, dan siap menjawab tantangan di sektor ekonomi kreatif masa depan
+Melalui program terpadu ini, SMK Wijayakusuma Jatilawang terus berkomitmen mencetak lulusan yang kompeten, berdaya saing tinggi, dan siap memasuki dunia kerja maupun dunia usaha di masa depan.
 
 ![](/img/biru-putih-modern-dokumentasi-kegiatan-tes-kemampuan-akademik-siswa-instagram-post-1-.png)
 
